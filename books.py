@@ -36,7 +36,7 @@ class Book:
                     title = self.title + " by " + self.author,
                     description = text
         )
-        em.set_footer(text="Page " + str(math.floor(self.current/30)+1), + " of " + str(self.pagecount))
+        em.set_footer(text="Page " + str(math.floor(self.current/30)+1) + " of " + str(self.pagecount))
         await self.message.edit(embed = em)
     def next_page(self):
         self.current += 30
