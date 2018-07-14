@@ -19,7 +19,7 @@ async def on_ready():
     
 
 class Book:
-    def __init__(self, bookfile, cover, title: str, author: str, message, current: int = -30, ):
+    def __init__(self, bookfile, cover, title: str, author: str, message, current: int = -30):
         self.bookfile   = bookfile
         self.cover      = cover
         self.title      = title
@@ -27,6 +27,7 @@ class Book:
         self.message    = message
         self.booklines  = open(bookfile, 'r', encoding="utf-8").readlines()
         self.current    = current
+        self.pagecount  = math.floor(len(booklines)/30)
         
         
     async def update(self):
@@ -35,7 +36,7 @@ class Book:
                     title = self.title + " by " + self.author,
                     description = text
         )
-        em.set_footer(text="Page " + str(math.floor(self.current/30)+1))
+        em.set_footer(text="Page " + str(math.floor(self.current/30)+1), + " of " + str(self.pagecount))
         await self.message.edit(embed = em)
     def next_page(self):
         self.current += 30
