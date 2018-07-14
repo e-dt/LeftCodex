@@ -27,7 +27,7 @@ class Book:
         self.message    = message
         self.booklines  = open(bookfile, 'r', encoding="utf-8").readlines()
         self.current    = current
-        self.pagecount  = math.floor(len(self.booklines)/30)
+        self.pagecount  = math.floor(len(self.booklines)/30) + 1
         
         
     async def update(self):
