@@ -8,7 +8,7 @@ import pickle
 
 bot = commands.Bot(command_prefix='b)')
 books_table = {}
-booklist = [i.strip().split(',,') for i in open("booklist.txt").readlines()]
+booklist = [i.strip().split(',,') for i in open("booklist.txt", encoding="utf-8").readlines()]
 #TITLE AUTHOR FILENAME COVERURL
 #TITLE AUTHOR FILENAME COVERURL
 #etc
@@ -25,7 +25,7 @@ class Book:
         self.title      = title
         self.author     = author
         self.message    = message
-        self.booklines  = open(bookfile, 'r').readlines()
+        self.booklines  = open(bookfile, 'r', encoding="utf-8").readlines()
         self.current    = current
         
         
@@ -121,7 +121,7 @@ async def on_raw_reaction_add(emoji, message_id, channel_id, user_id):
 @commands.is_owner()
 async def reload(ctx):
     global booklist
-    booklist = [i.strip().split(',,') for i in open("booklist.txt").readlines()]
+    booklist = [i.strip().split(',,') for i in open("booklist.txt", encoding="utf-8").readlines()]
     print([i[0]+str(len(i)) for i in booklist])
 
 @bot.command(name = "jump")
