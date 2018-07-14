@@ -68,9 +68,9 @@ To Build Communist Parties and an International Anew,,Leon Trotsky,,newintern,,h
 The Class, the Party and the Leadership [Unfinished],,Leon Trotsky,,classparty,,https://media.discordapp.net/attachments/466913435037335553/466971163017478154/Trotsky_The_Class_the_Party_and_the_Leadership.jpg?width=400&height=300,,trotskyism
 The Transitional Program for Socialist Revolution,,Leon Trotsky,,transitrev,,https://media.discordapp.net/attachments/466913435037335553/466972041669640192/Trotsky_The_Transitional_Program.jpg?width=195&height=300,,trotskyism
 Whither France?,,Leon Trotsky,,whitherfr,,https://media.discordapp.net/attachments/466913435037335553/466972314450395146/trotsky_whither_france.jpg?width=190&height=300,,trotskyism
-Reform or Revolution,,Rosa Luxemburg,,refrev,,https://thesocialist.org.au/wp-content/uploads/CoverforWebsite_ReformOrRevolution.jpg,,luxemburgism
-The Accumulation of Capital,,Rosa Luxemburg,,acap,,https://media.discordapp.net/attachments/466908438228631552/467655142229934080/Luxemburg_The_Accumulation_of_Capital.jpg?width=201&height=300,,luxemburgism
-The Mass Strike,,Rosa Luxemburg,,massstr,,https://media.discordapp.net/attachments/466913435037335553/467427268059463680/Luxemburg_The_Mass_Strike.jpg?width=193&height=301,,luxemburgism
-The Crisis of German Social Democracy,,Rosa Luxemburg,,crisisdesocdem,,https://media.discordapp.net/attachments/466913435037335553/467427729084776470/Luxemburg_The_Junius_Pamphlet.jpg?width=199&height=300,,luxemburgism
-The Letters of Rosa Luxemburg,,Rosa Luxemburg,,luxletters,,https://libcom.org/files/imagecache/article/images/library/cover_77.jpg,,luxemburgism
-The Complete Works of Rosa Luxemburg Vol. 1 (Economic Writings),,Rosa Luxemburg,,alllux1,,https://libcom.org/files/imagecache/article/images/library/cover_76.jpg,,luxemburgism
+Reform or Revolution,,Rosa Luxemburg,,refrev,,https://thesocialist.org.au/wp-content/uploads/CoverforWebsite_ReformOrRevolution.jpg,,marxism
+The Accumulation of Capital,,Rosa Luxemburg,,acap,,https://media.discordapp.net/attachments/466908438228631552/467655142229934080/Luxemburg_The_Accumulation_of_Capital.jpg?width=201&height=300,,marxism
+The Mass Strike,,Rosa Luxemburg,,massstr,,https://media.discordapp.net/attachments/466913435037335553/467427268059463680/Luxemburg_The_Mass_Strike.jpg?width=193&height=301,,marxism
+The Crisis of German Social Democracy,,Rosa Luxemburg,,crisisdesocdem,,https://media.discordapp.net/attachments/466913435037335553/467427729084776470/Luxemburg_The_Junius_Pamphlet.jpg?width=199&height=300,,marxism
+The Letters of Rosa Luxemburg,,Rosa Luxemburg,,luxletters,,https://libcom.org/files/imagecache/article/images/library/cover_77.jpg,,marxism
+The Complete Works of Rosa Luxemburg Vol. 1 (Economic Writings),,Rosa Luxemburg,,alllux1,,https://libcom.org/files/imagecache/article/images/library/cover_76.jpg,,marxism
