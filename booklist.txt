@@ -74,3 +74,5 @@ The Mass Strike,,Rosa Luxemburg,,massstr,,https://media.discordapp.net/attachmen
 The Crisis of German Social Democracy,,Rosa Luxemburg,,crisisdesocdem,,https://media.discordapp.net/attachments/466913435037335553/467427729084776470/Luxemburg_The_Junius_Pamphlet.jpg?width=199&height=300,,marxism
 The Letters of Rosa Luxemburg,,Rosa Luxemburg,,luxletters,,https://libcom.org/files/imagecache/article/images/library/cover_77.jpg,,marxism
 The Complete Works of Rosa Luxemburg Vol. 1 (Economic Writings),,Rosa Luxemburg,,alllux1,,https://libcom.org/files/imagecache/article/images/library/cover_76.jpg,,marxism
+The Wretched of The Earth,,Frantz Fanon,,wretchearth,,https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/The_Wretched_of_the_Earth%2C_French_edition.jpg/220px-The_Wretched_of_the_Earth%2C_French_edition.jpg,,anti-colonialism
+Black Skin, White Masks,,Frantz Fanon,,blackwhite,,https://upload.wikimedia.org/wikipedia/en/3/32/Black_Skin%2C_White_Masks%2C_French_edition.jpg,,anti-colonialism
