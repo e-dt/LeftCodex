@@ -9,6 +9,7 @@ import pickle
 bot = commands.Bot(command_prefix='b)')
 books_table = {}
 booklist = [i.strip().split(',,') for i in open("booklist.txt", encoding="utf-8").readlines()]
+booklist = [[i[0], i[1], i[2], i[3], i[4].strip().split(',')] for i in booklist][
 #TITLE AUTHOR FILENAME COVERURL
 #TITLE AUTHOR FILENAME COVERURL
 #etc
@@ -80,12 +81,12 @@ async def dict_to_book(d):
     return Book(d['bookfile'], d['cover'], d['title'], d['author'], message, d['current'])
 
 @bot.command(name = 'codex')
-async def codex(ctx, tendency: str = None):
-    """Shows a list of all books in tendency specified. If tendency not specified, shows a list of tendencies."""
+async def codex(ctx, tag: str = None):
+    """Shows a list of all books, tag specified. If tag not specified, shows a list of tags."""
     if tendency == None:
-        await ctx.send("Tendencies: ```\n"+ "\n".join({i[4] for i in booklist}) + "```\nChoose a tendency to view using `b)codex <tendency>`.")
+        await ctx.send("Tags: ```\n"+ "\n".join(set(sum([i[4] for i in booklist], []))) + "```\nChoose a tag to view using `b)codex <tag>`. Please help us tag books using `b)suggest Tag: <book> with <tag>`.")
         return
-    tendencylist = [i for i in booklist if i[4] == tendency.lower()]
+    tendencylist = [i for i in booklist if tag.lower() in i[4]]
     await ctx.send("Choose books from this list, using `b)read <id>`.\n```\n"
                    + "\n".join([book[0] + " by " + book[1] + ". ID: "
                                 + book[2] for book in tendencylist])
