@@ -1,15 +1,15 @@
 The Principles Of Communism,,Friedrich Engels,,princom,,https://media.discordapp.net/attachments/466908438228631552/466912730671218698/zEfjgOEcIEfGByhx77Gqh3m1X39fCPHWVQ4FZXxCAIfKfJxmBPvnAtRkAAAA.png,,marxism
 The Communist Manifesto,,Engels & Marx,,manifesto,,https://i.pinimg.com/736x/ed/97/48/ed974871c8dd7ad63e7c55b7b8e6b403--paperback-books-vintage.jpg,,marxism
 Socialism: Utopian and Scientific,,Friedrich Engels,,utopsci,,https://media.discordapp.net/attachments/432014252346310657/466919860425981953/unknown.png?width=198&height=300,,marxism
-Wage Labour & Capital,,Karl Marx,,marxwage,,https://media.discordapp.net/attachments/466908438228631552/466923758158872576/unknown.png?width=188&height=300,,marxism
-Value, Price & Profit,,Karl Marx,,valprofit,,https://images-na.ssl-images-amazon.com/images/I/71lUw0MapIL.jpg,,marxism
-Economic & Philosophic Manuscripts of 1844,,Karl Marx,,script1844,,https://upload.wikimedia.org/wikipedia/en/a/ae/Economic_and_Philosophic_Manuscripts_of_1844.jpg,,marxism
+Wage Labour & Capital,,Karl Marx,,marxwage,,https://media.discordapp.net/attachments/466908438228631552/466923758158872576/unknown.png?width=188&height=300,,marxism,economics
+Value, Price & Profit,,Karl Marx,,valprofit,,https://images-na.ssl-images-amazon.com/images/I/71lUw0MapIL.jpg,,marxism,economics
+Economic & Philosophic Manuscripts of 1844,,Karl Marx,,script1844,,https://upload.wikimedia.org/wikipedia/en/a/ae/Economic_and_Philosophic_Manuscripts_of_1844.jpg,,marxism,economics
 Critique of the Gotha Programme,,Karl Marx,,gotha,,https://sovietbookbugs.files.wordpress.com/2014/11/marx-critic-of-the-gotha-programm.jpg,,marxism
 Grundrisse - Foundations of the Critique of Political Economy (Unfinished),, Karl Marx,,grundrisse,,https://upload.wikimedia.org/wikipedia/en/d/df/Grundrisse.jpg,,marxism
 Synopsis of Capital (Volume 1),,Friedrich Engels,,synopsis,,https://images-na.ssl-images-amazon.com/images/I/41fqVjjvQnL._SX331_BO1,204,203,200_.jpg,,marxism
-Capital Volume 1,,Karl Marx,,capital1,,https://is3-ssl.mzstatic.com/image/thumb/Publication/v4/99/f9/2e/99f92e82-22df-8dc9-718b-aa89f2c75383/source/225x225bb.jpg,,marxism
-Capital Volume 2,,Karl Marx & Engels,,capital2,,https://is3-ssl.mzstatic.com/image/thumb/Publication/v4/99/f9/2e/99f92e82-22df-8dc9-718b-aa89f2c75383/source/225x225bb.jpg,,marxism
-Capital Volume 3,,Karl Marx & Engels,,capital3,,https://is3-ssl.mzstatic.com/image/thumb/Publication/v4/99/f9/2e/99f92e82-22df-8dc9-718b-aa89f2c75383/source/225x225bb.jpg,,marxism
+Capital Volume 1,,Karl Marx,,capital1,,https://is3-ssl.mzstatic.com/image/thumb/Publication/v4/99/f9/2e/99f92e82-22df-8dc9-718b-aa89f2c75383/source/225x225bb.jpg,,marxism,economics
+Capital Volume 2,,Karl Marx & Engels,,capital2,,https://is3-ssl.mzstatic.com/image/thumb/Publication/v4/99/f9/2e/99f92e82-22df-8dc9-718b-aa89f2c75383/source/225x225bb.jpg,,marxism,economics
+Capital Volume 3,,Karl Marx & Engels,,capital3,,https://is3-ssl.mzstatic.com/image/thumb/Publication/v4/99/f9/2e/99f92e82-22df-8dc9-718b-aa89f2c75383/source/225x225bb.jpg,,marxism,economics
 Origin of the Family, Private Property, & The State,,Friedrich Engels,,originfamily,,https://mehring.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/o/r/origin_of_the_family_300.jpg,,marxism
 The Poverty of Philosophy,,Karl Marx,,povphil,,https://media.discordapp.net/attachments/466913435037335553/466932577773813771/Karl_Marx_-_The_Poverty_of_Philosophy.jpg?width=328&height=493,,marxism
 The Class Struggles in France,,Karl Marx,,classfr,,https://media.discordapp.net/attachments/466913435037335553/466933412427726850/Karl_Marx_-_The_Class_Struggles_in_France_1848_to_1850.jpg?width=200&height=300,,marxism
@@ -33,7 +33,7 @@ Two Tactics of Social Democracy in the Democratic Revolution,,Vladimir Lenin,,2t
 Materialism and Empirio-Criticism,,Vladimir Lenin,,matemp,,https://media.discordapp.net/attachments/466913435037335553/466921494199664640/Materialism_and_Empirio-Criticism.jpg?width=188&height=300,,leninism
 The Conquest of Bread,,Peter Kropoktin,,bread,,https://images-na.ssl-images-amazon.com/images/I/41q1B86yXmL._SX313_BO1,204,203,200_.jpg,,anarcho-communism
 Mutual Aid: A Factor of Evolution,,Peter Kropotkin,,mutualaid,,https://www.college.columbia.edu/core/sites/core/files/styles/large/public/images/e64de03ae7a0b7e0fc7de110.jpg?itok=hlsAtJRu,,anarcho-communism
-Bullshit Jobs,,David Graeber,,bulljobs,,https://images-na.ssl-images-amazon.com/images/I/51WI7LXn1IL._SX329_BO1,204,203,200_.jpg,,anarcho-communism
+Bullshit Jobs,,David Graeber,,bulljobs,,https://images-na.ssl-images-amazon.com/images/I/51WI7LXn1IL._SX329_BO1,204,203,200_.jpg,,anarcho-communism,anti-capitalism
 Quotations from Mao Zedong,,Mao Zedong,,quotations,,https://media.discordapp.net/attachments/466913435037335553/466940873473785856/Quotations_from_Chairman_Mao_Zedong.jpg,,maoism
 On Practice,,Mao Zedong,,onpractice,,https://media.discordapp.net/attachments/466913435037335553/466941312273219584/On_Practice_Mao_Zedong.jpg?width=190&height=300,,maoism
 On Contradiction,,Mao Zedong,,oncontradiction,,https://media.discordapp.net/attachments/466913435037335553/466941312273219584/On_Practice_Mao_Zedong.jpg?width=190&height=300,,maoism
@@ -78,3 +78,14 @@ The Complete Works of Rosa Luxemburg Vol. 1 (Economic Writings),,Rosa Luxemburg,
 The Wretched of The Earth,,Frantz Fanon,,wretchearth,,https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/The_Wretched_of_the_Earth%2C_French_edition.jpg/220px-The_Wretched_of_the_Earth%2C_French_edition.jpg,,anti-colonialism
 Black Skin, White Masks,,Frantz Fanon,,blackwhite,,https://upload.wikimedia.org/wikipedia/en/3/32/Black_Skin%2C_White_Masks%2C_French_edition.jpg,,anti-colonialism
 Discourse on Colonialism,,Aime Cesaire,,discolonialism,,https://images-na.ssl-images-amazon.com/images/I/41wpBnCoRwL._SX343_BO1,204,203,200_.jpg,,anti-colonialism
+17 Contradictions and the End of Capitalism,,David Harvey,,17contra,,https://images.gr-assets.com/books/1434876686l/21895733.jpg,,anti-capitalism,economics
+Stone Age Economics,,Marshall Sahlins,,stoneeco,,https://images-na.ssl-images-amazon.com/images/I/81Ud7gx9kPL.jpg,,economics,anthropology
+Debt: The First 5000 Years,,David Graeber,,5kyrsofdebt,,https://images-na.ssl-images-amazon.com/images/I/41Hh11WkivL._SX331_BO1,204,203,200_.jpg,,anti-capitalism,anarcho-communism,economics
+Marx, Capital and The Madness of Economic Reason,,David Harvey,,capitalandmadness,,https://images-na.ssl-images-amazon.com/images/I/51QC2atS6CL._SX311_BO1,204,203,200_.jpg,,anti-capitalism,economics
+Manufacturing Consent,,Edward S. Herman & Noam Chomsky,,manuconsent,,https://images.gr-assets.com/books/1525166345l/12617.jpg,,anti-propaganda,anarcho-communism
+Kill All Normies,,Angela Nagle,,killnormies,,https://images-na.ssl-images-amazon.com/images/I/51evtck75zL._SX322_BO1,204,203,200_.jpg,,anti-fascism
+White Fragility,,Robin DiAngelo,,whitefragile,,https://images-na.ssl-images-amazon.com/images/I/91S0yvr-NwL.jpg,,anti-racism
+Are Prisons Obsolete?,,Angela Y. Davis,,prisonobsolete,,https://i2.wp.com/www.blackfeminisms.com/wp-content/uploads/2017/01/Are-Prisons-Obsolete.ada7259e159b43b38290ecbc93dc4bdf.png?fit=454%2C602&ssl=1,,prison abolition,leninism
+Gender Trouble: Feminism and the Subversion of Identity,,Judith Butler,,gendertrouble,,https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Gender_Trouble%2C_first_edition.jpg/220px-Gender_Trouble%2C_first_edition.jpg,,feminism
+Animal Liberation,,Peter Singer,,animallib,,https://upload.wikimedia.org/wikipedia/en/2/26/Animal_Liberation%2C_1975_edition.jpg,,animal liberation,veganism
+Why Are We The Good Guys: Reclaiming Your Mind from the Delusions of Propaganda,,David Cromwell,,whywegood,,https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Why_Are_We_the_Good_Guys.jpg/220px-Why_Are_We_the_Good_Guys.jpg,,anti-propaganda
