@@ -83,7 +83,7 @@ async def dict_to_book(d):
 @bot.command(name = 'codex')
 async def codex(ctx, tag: str = None):
     """Shows a list of all books, tag specified. If tag not specified, shows a list of tags."""
-    if tendency == None:
+    if tag == None:
         await ctx.send("Tags: ```\n"+ "\n".join(set(sum([i[4] for i in booklist], []))) + "```\nChoose a tag to view using `b)codex <tag>`. Please help us tag books using `b)suggest Tag: <book> with <tag>`.")
         return
     tendencylist = [i for i in booklist if tag.lower() in i[4]]
