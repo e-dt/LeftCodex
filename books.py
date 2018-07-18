@@ -9,7 +9,7 @@ import pickle
 bot = commands.Bot(command_prefix='b)')
 books_table = {}
 booklist = [i.strip().split(',,') for i in open("booklist.txt", encoding="utf-8").readlines()]
-booklist = [[i[0], i[1], i[2], i[3], i[4].strip().split(',')] for i in booklist][
+booklist = [[i[0], i[1], i[2], i[3], i[4].strip().split(',')] for i in booklist]
 #TITLE AUTHOR FILENAME COVERURL
 #TITLE AUTHOR FILENAME COVERURL
 #etc
