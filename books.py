@@ -124,6 +124,7 @@ async def on_raw_reaction_add(emoji, message_id, channel_id, user_id):
 async def reload(ctx):
     global booklist
     booklist = [i.strip().split(',,') for i in open("booklist.txt", encoding="utf-8").readlines()]
+    booklist = [[i[0], i[1], i[2], i[3], i[4].strip().split(',')] for i in booklist]
     print([i[0]+str(len(i)) for i in booklist])
 
 @bot.command(name = "jump")
