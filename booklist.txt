@@ -19,7 +19,7 @@ On the History of Early Christianity,,Friedrich Engels,,earlychrist,,https://med
 The Peasant War in Germany,,Friedrich Engels,,peasantwar,,https://media.discordapp.net/attachments/466913435037335553/466938993578213376/Frederich_Engels_-_The_Peasant_War_in_Germany.jpg?width=186&height=300,,marxism
 The Holy Family - Critique of Critical Criticism,,Karl Marx and Friedrich Engels,,holyfamily,,https://media.discordapp.net/attachments/466913435037335553/466934790172573707/Karl_Marx_and_Friedrich_Engels_-_Critique_of_Critical_Criticism.jpg?width=329&height=494,,marxism
 The Civil War in France,,Karl Marx,,civilwarfr,,https://media.discordapp.net/attachments/466913435037335553/466934420658716672/Karl_Marx_-_The_Civil_War_in_France.jpg?width=329&height=494,,marxism
-The Soul of Man Under Socialism,,Oscar Wilde,,soulofman,,https://images.gr-assets.com/books/1428095926l/80339.jpg,,anarcho-communism
+The Soul of Man Under Socialism,,Oscar Wilde,,soulofman,,https://images.gr-assets.com/books/1428095926l/80339.jpg,,anarcho-communism,anarchism
 State & Revolution,,Vladimir Lenin,,staterev,,https://media.discordapp.net/attachments/466913435037335553/466915881348366336/The_State_and_Revolution.jpg?width=197&height=300,,leninism
 What is to be Done?,,Vladimir Lenin,,whatdo,,https://media.discordapp.net/attachments/466913435037335553/466916147170770944/what_is_to_be_done.jpg?width=195&height=300,,leninism
 "Left Wing" Communism - An Infantile Disorder,,Vladimir Lenin,,vlleftcom,,https://media.discordapp.net/attachments/466913435037335553/466915692684378122/Left-Wing_Communism_an_Infantile_Disorder.jpg?width=192&height=300,,leninism
@@ -31,9 +31,9 @@ First Congress of the Communist International,,Vladimir Lenin,,comintern1,,https
 Two Tactics of Social Democracy in the Democratic Revolution,,Vladimir Lenin,,2tactics,,https://media.discordapp.net/attachments/466913435037335553/466919718884999168/Two_Tactics_of_Social_Democracy_in_the_Democratic_Revolution.jpg?width=198&height=300,,leninism
 "Democracy" and Dictatorship,,Vladimir Lenin,,demanddic,,https://media.discordapp.net/attachments/466913435037335553/466917652254687232/V._I._Lenin_-_Democracy_and_Dictatorship.jpg?width=400&height=294,,leninism
 Materialism and Empirio-Criticism,,Vladimir Lenin,,matemp,,https://media.discordapp.net/attachments/466913435037335553/466921494199664640/Materialism_and_Empirio-Criticism.jpg?width=188&height=300,,leninism
-The Conquest of Bread,,Peter Kropoktin,,bread,,https://images-na.ssl-images-amazon.com/images/I/41q1B86yXmL._SX313_BO1,204,203,200_.jpg,,anarcho-communism
-Mutual Aid: A Factor of Evolution,,Peter Kropotkin,,mutualaid,,https://www.college.columbia.edu/core/sites/core/files/styles/large/public/images/e64de03ae7a0b7e0fc7de110.jpg?itok=hlsAtJRu,,anarcho-communism
-Bullshit Jobs,,David Graeber,,bulljobs,,https://images-na.ssl-images-amazon.com/images/I/51WI7LXn1IL._SX329_BO1,204,203,200_.jpg,,anarcho-communism,anti-capitalism
+The Conquest of Bread,,Peter Kropoktin,,bread,,https://images-na.ssl-images-amazon.com/images/I/41q1B86yXmL._SX313_BO1,204,203,200_.jpg,,anarcho-communism,anarchism
+Mutual Aid: A Factor of Evolution,,Peter Kropotkin,,mutualaid,,https://www.college.columbia.edu/core/sites/core/files/styles/large/public/images/e64de03ae7a0b7e0fc7de110.jpg?itok=hlsAtJRu,,anarcho-communism,anarchism
+Bullshit Jobs,,David Graeber,,bulljobs,,https://images-na.ssl-images-amazon.com/images/I/51WI7LXn1IL._SX329_BO1,204,203,200_.jpg,,anarcho-communism,anti-capitalism,anarchism
 Quotations from Mao Zedong,,Mao Zedong,,quotations,,https://media.discordapp.net/attachments/466913435037335553/466940873473785856/Quotations_from_Chairman_Mao_Zedong.jpg,,maoism
 On Practice,,Mao Zedong,,onpractice,,https://media.discordapp.net/attachments/466913435037335553/466941312273219584/On_Practice_Mao_Zedong.jpg?width=190&height=300,,maoism
 On Contradiction,,Mao Zedong,,oncontradiction,,https://media.discordapp.net/attachments/466913435037335553/466941312273219584/On_Practice_Mao_Zedong.jpg?width=190&height=300,,maoism
@@ -80,12 +80,16 @@ Black Skin, White Masks,,Frantz Fanon,,blackwhite,,https://upload.wikimedia.org/
 Discourse on Colonialism,,Aime Cesaire,,discolonialism,,https://images-na.ssl-images-amazon.com/images/I/41wpBnCoRwL._SX343_BO1,204,203,200_.jpg,,anti-colonialism
 17 Contradictions and the End of Capitalism,,David Harvey,,17contra,,https://images.gr-assets.com/books/1434876686l/21895733.jpg,,anti-capitalism,economics
 Stone Age Economics,,Marshall Sahlins,,stoneeco,,https://images-na.ssl-images-amazon.com/images/I/81Ud7gx9kPL.jpg,,economics,anthropology
-Debt: The First 5000 Years,,David Graeber,,5kyrsofdebt,,https://images-na.ssl-images-amazon.com/images/I/41Hh11WkivL._SX331_BO1,204,203,200_.jpg,,anti-capitalism,anarcho-communism,economics
+Debt: The First 5000 Years,,David Graeber,,5kyrsofdebt,,https://images-na.ssl-images-amazon.com/images/I/41Hh11WkivL._SX331_BO1,204,203,200_.jpg,,anti-capitalism,anarcho-communism,economics,anarchism
 Marx, Capital and The Madness of Economic Reason,,David Harvey,,capitalandmadness,,https://images-na.ssl-images-amazon.com/images/I/51QC2atS6CL._SX311_BO1,204,203,200_.jpg,,anti-capitalism,economics
-Manufacturing Consent,,Edward S. Herman & Noam Chomsky,,manuconsent,,https://images.gr-assets.com/books/1525166345l/12617.jpg,,anti-propaganda,anarcho-communism
+Manufacturing Consent,,Edward S. Herman & Noam Chomsky,,manuconsent,,https://images.gr-assets.com/books/1525166345l/12617.jpg,,anti-propaganda,anarcho-communism,anarchism
 Kill All Normies,,Angela Nagle,,killnormies,,https://images-na.ssl-images-amazon.com/images/I/51evtck75zL._SX322_BO1,204,203,200_.jpg,,anti-fascism
 White Fragility,,Robin DiAngelo,,whitefragile,,https://images-na.ssl-images-amazon.com/images/I/91S0yvr-NwL.jpg,,anti-racism
 Are Prisons Obsolete?,,Angela Y. Davis,,prisonobsolete,,https://i2.wp.com/www.blackfeminisms.com/wp-content/uploads/2017/01/Are-Prisons-Obsolete.ada7259e159b43b38290ecbc93dc4bdf.png?fit=454%2C602&ssl=1,,prison abolition,leninism
 Gender Trouble: Feminism and the Subversion of Identity,,Judith Butler,,gendertrouble,,https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Gender_Trouble%2C_first_edition.jpg/220px-Gender_Trouble%2C_first_edition.jpg,,feminism
 Animal Liberation,,Peter Singer,,animallib,,https://upload.wikimedia.org/wikipedia/en/2/26/Animal_Liberation%2C_1975_edition.jpg,,animal liberation,veganism
 Why Are We The Good Guys: Reclaiming Your Mind from the Delusions of Propaganda,,David Cromwell,,whywegood,,https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Why_Are_We_the_Good_Guys.jpg/220px-Why_Are_We_the_Good_Guys.jpg,,anti-propaganda
+Anarcho-Syndicalism: Theory & Practice,,Rudolph Rocker,,ansyn,,https://images.luxagraf.net/book-covers/anarcho-syndicalism-theory-and-practice.jpg,,anarchism,anarcho-syndicalism
+Anarchism and Other Essays,,Emma Goldman,,goldmananarchism,,https://images.gr-assets.com/books/1328865558l/551926.jpg,,anarchism,anarcho-communism
+The Ego and Its Own,,Max Stirner,,spooks,,https://images-na.ssl-images-amazon.com/images/I/41FZrKxSWaL._SX331_BO1,204,203,200_.jpg,,anarchism,individualist anarchism
+What is Property?,,Pierre-Joseph Proudhon,,pjpproperty,,https://www.createspace.com/Img/T468/T52/T86/BookCoverImage.jpg,,anarchism,mutualism
