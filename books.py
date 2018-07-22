@@ -116,7 +116,9 @@ async def on_raw_reaction_add(emoji, message_id, channel_id, user_id):
         return
     c = bot.get_channel(channel_id)
     m = await c.get_message(message_id)
-    await m.remove_reaction(emoji, bot.get_user(user_id))
+    try:
+        await m.remove_reaction(emoji, bot.get_user(user_id))
+    except: pass
     await book.dispatch_reaction(emoji.name)
 
 @bot.command(name = 'reload')
