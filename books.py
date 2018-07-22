@@ -76,9 +76,12 @@ def book_to_dict(book):
             "current": book.current}
 
 async def dict_to_book(d):
-    message_channel =  bot.get_channel(d['channel_id'])
-    message = await message_channel.get_message(d['message_id'])
-    return Book(d['bookfile'], d['cover'], d['title'], d['author'], message, d['current'])
+    try:
+        message_channel =  bot.get_channel(d['channel_id'])
+        message = await message_channel.get_message(d['message_id'])
+        return Book(d['bookfile'], d['cover'], d['title'], d['author'], message, d['current'])
+    except:
+        return None #harmless dummy
 
 @bot.command(name = 'codex')
 async def codex(ctx, tag: str = None):
