@@ -77,7 +77,7 @@ The Letters of Rosa Luxemburg,,Rosa Luxemburg,,luxletters,,https://libcom.org/fi
 The Complete Works of Rosa Luxemburg Vol. 1 (Economic Writings),,Rosa Luxemburg,,alllux1,,https://libcom.org/files/imagecache/article/images/library/cover_76.jpg,,marxism
 The Wretched of The Earth,,Frantz Fanon,,wretchearth,,https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/The_Wretched_of_the_Earth%2C_French_edition.jpg/220px-The_Wretched_of_the_Earth%2C_French_edition.jpg,,anti-colonialism
 Black Skin, White Masks,,Frantz Fanon,,blackwhite,,https://upload.wikimedia.org/wikipedia/en/3/32/Black_Skin%2C_White_Masks%2C_French_edition.jpg,,anti-colonialism
-Discourse on Colonialism,,Aime Cesaire,,discolonialism,,https://images-na.ssl-images-amazon.com/images/I/41wpBnCoRwL._SX343_BO1,204,203,200_.jpg,,anti-colonialism
+Discourse on Colonialism,,Aime Cesaire,,discolonial,,https://images-na.ssl-images-amazon.com/images/I/41wpBnCoRwL._SX343_BO1,204,203,200_.jpg,,anti-colonialism
 17 Contradictions and the End of Capitalism,,David Harvey,,17contra,,https://images.gr-assets.com/books/1434876686l/21895733.jpg,,anti-capitalism,economics
 Stone Age Economics,,Marshall Sahlins,,stoneeco,,https://images-na.ssl-images-amazon.com/images/I/81Ud7gx9kPL.jpg,,economics,anthropology
 Debt: The First 5000 Years,,David Graeber,,5kyrsofdebt,,https://images-na.ssl-images-amazon.com/images/I/41Hh11WkivL._SX331_BO1,204,203,200_.jpg,,anti-capitalism,anarcho-communism,economics,anarchism
