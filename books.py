@@ -111,18 +111,18 @@ async def read(ctx, id, channel: discord.TextChannel = None):
     books_table[channelid] = Book(id, row[3], row[0], row[1], message)
 
 @bot.event
-async def on_raw_reaction_add(emoji, message_id, channel_id, user_id):
-    if user_id == 466890219803639810: #hacky but w/e
+async def on_raw_reaction_add(payload): #, emoji, message_id, channel_id, user_id):
+    if payload.user_id == 466890219803639810: #hacky but w/e
         return
-    book = books_table[channel_id]
-    if book.message.id != message_id:
+    book = books_table[payload.channel_id]
+    if book.message.id != payload.message_id:
         return
-    c = bot.get_channel(channel_id)
-    m = await c.get_message(message_id)
+    c = bot.get_channel(payload.channel_id)
+    m = await c.get_message(payload.message_id)
     try:
-        await m.remove_reaction(emoji, bot.get_user(user_id))
+        await m.remove_reaction(payload.emoji, bot.get_user(payload.user_id))
     except: pass
-    await book.dispatch_reaction(emoji.name)
+    await book.dispatch_reaction(payload.emoji.name)
 
 @bot.command(name = 'reload')
 @commands.is_owner()
