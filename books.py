@@ -78,7 +78,7 @@ def book_to_dict(book):
 async def dict_to_book(d):
     try:
         message_channel =  bot.get_channel(d['channel_id'])
-        message = await message_channel.get_message(d['message_id'])
+        message = await message_channel.fetch_message(d['message_id'])
         return Book(d['bookfile'], d['cover'], d['title'], d['author'], message, d['current'])
     except:
         return None #harmless dummy
@@ -118,7 +118,7 @@ async def on_raw_reaction_add(payload): #, emoji, message_id, channel_id, user_i
     if book.message.id != payload.message_id:
         return
     c = bot.get_channel(payload.channel_id)
-    m = await c.get_message(payload.message_id)
+    m = await c.fetch_message(payload.message_id)
     try:
         await m.remove_reaction(payload.emoji, bot.get_user(payload.user_id))
     except: pass
