@@ -181,4 +181,4 @@ async def load(ctx):
     global books_table
     books_table = {channel : await dict_to_book(d) for channel, d in pickle.load(open("saved.pickle", "rb")).items()}
     await ctx.send("restored.")
-bot.run(open(".token","r").read(), reconnect=True)
+bot.run(open(".token","r").read().strip(), reconnect=True)
